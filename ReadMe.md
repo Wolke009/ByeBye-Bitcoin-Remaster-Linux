@@ -20,13 +20,13 @@ ByeBye-Bitcoin-Remaster is a Python script that checks random Bitcoin Private Ke
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/lopekinz/ByeBye-Bitcoin-Remaster.git
+   git clone https://github.com/lopekinz/ByeBye-Bitcoin-Remaster-Linux.git
    ```
 
 2. Change to the project directory:
 
    ```shell
-   cd ByeBye-Bitcoin-Remaster
+   cd ByeBye-Bitcoin-Remaster-Linux
    ```
 
 3. Install the required packages:
