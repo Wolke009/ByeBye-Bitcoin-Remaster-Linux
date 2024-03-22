@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing required packages..."
-pip install -r requirements.txt
+pipx install -r requirements.txt
 
 if [ "$?" -ne "0" ]; then
     echo "Failed to install required packages."
