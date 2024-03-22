@@ -1,5 +1,6 @@
 # ByeBye-Bitcoin-Remaster
 
+SCRIPT DOESNT WORK YET
 ByeBye-Bitcoin-Remaster is a Python script that checks random Bitcoin Private Keys for non-zero balances and logs the results.
 
 ## Features
